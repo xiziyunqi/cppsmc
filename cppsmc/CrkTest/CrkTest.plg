@@ -1,0 +1,51 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CrkTest - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"..\Release\CrkTest/CrkTest.res" /d "NDEBUG" "G:\keti\拾遗\20130218用CC实现软件代码区的动态加解密SMC\cppsmc\cppsmc\CrkTest\CrkTest.rc"" 
+Creating temporary file "C:\Users\BFS039\AppData\Local\Temp\RSP9EBD.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /I "..\common" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"..\Release\CrkTest/CrkTest.pch" /Yu"stdafx.h" /Fo"..\Release\CrkTest/" /Fd"..\Release\CrkTest/" /FD /c 
+"G:\keti\拾遗\20130218用CC实现软件代码区的动态加解密SMC\cppsmc\cppsmc\CrkTest\CrkTest.cpp"
+"G:\keti\拾遗\20130218用CC实现软件代码区的动态加解密SMC\cppsmc\cppsmc\Common\ProtectFunc.cpp"
+"G:\keti\拾遗\20130218用CC实现软件代码区的动态加解密SMC\cppsmc\cppsmc\CrkTest\specseg.cpp"
+]
+Creating command line "cl.exe @C:\Users\BFS039\AppData\Local\Temp\RSP9EBD.tmp" 
+Creating temporary file "C:\Users\BFS039\AppData\Local\Temp\RSP9EBE.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /I "..\common" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"..\Release\CrkTest/CrkTest.pch" /Yc"stdafx.h" /Fo"..\Release\CrkTest/" /Fd"..\Release\CrkTest/" /FD /c 
+"G:\keti\拾遗\20130218用CC实现软件代码区的动态加解密SMC\cppsmc\cppsmc\CrkTest\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\BFS039\AppData\Local\Temp\RSP9EBE.tmp" 
+Creating temporary file "C:\Users\BFS039\AppData\Local\Temp\RSP9EBF.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:no /pdb:"..\Release/CrkTest.pdb" /machine:I386 /out:"..\Release/CrkTest.exe" 
+"\keti\拾遗\20130218用CC实现软件代码区的动态加解密SMC\cppsmc\cppsmc\Release\CrkTest\CrkTest.obj"
+"\keti\拾遗\20130218用CC实现软件代码区的动态加解密SMC\cppsmc\cppsmc\Release\CrkTest\ProtectFunc.obj"
+"\keti\拾遗\20130218用CC实现软件代码区的动态加解密SMC\cppsmc\cppsmc\Release\CrkTest\specseg.obj"
+"\keti\拾遗\20130218用CC实现软件代码区的动态加解密SMC\cppsmc\cppsmc\Release\CrkTest\StdAfx.obj"
+"\keti\拾遗\20130218用CC实现软件代码区的动态加解密SMC\cppsmc\cppsmc\Release\CrkTest\CrkTest.res"
+]
+Creating command line "link.exe @C:\Users\BFS039\AppData\Local\Temp\RSP9EBF.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+CrkTest.cpp
+ProtectFunc.cpp
+specseg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+CrkTest.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

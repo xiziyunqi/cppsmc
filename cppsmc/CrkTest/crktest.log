@@ -1,0 +1,608 @@
+//本日志文件由 "Tabbar Add-in(1.17.3169) For Visual C++ 6.0" 创建
+//项目文件:C:\unzipped\CrkTest\CrkTest.dsp
+//如果文件增长的很大请删除除本节之外的其他信息
+
+[MAIN]
+nBuildNumber = 86
+
+[Build00000001]
+sStartTime = 2006-05-31 20:36:53
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-05-31 20:36:55
+
+[Build00000002]
+sStartTime = 2006-05-31 20:37:46
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-05-31 20:37:46
+
+[Build00000003]
+sStartTime = 2006-05-31 20:56:53
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-05-31 20:56:53
+
+[Build00000004]
+sStartTime = 2006-05-31 21:08:02
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-05-31 21:08:02
+
+[Build00000005]
+sStartTime = 2006-05-31 21:35:05
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-05-31 21:35:05
+
+[Build00000006]
+sStartTime = 2006-05-31 21:43:10
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-05-31 21:43:10
+
+[Build00000007]
+sStartTime = 2006-05-31 21:43:30
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-05-31 21:43:31
+
+[Build00000008]
+sStartTime = 2006-05-31 21:44:05
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-05-31 21:44:05
+
+[Build00000009]
+sStartTime = 2006-05-31 21:47:17
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-05-31 21:47:17
+
+[Build00000010]
+sStartTime = 2006-05-31 21:47:31
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-05-31 21:47:31
+
+[Build00000011]
+sStartTime = 2006-05-31 21:51:10
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-05-31 21:51:10
+
+[Build00000012]
+sStartTime = 2006-05-31 21:54:10
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-05-31 21:54:10
+
+[Build00000013]
+sStartTime = 2006-05-31 21:54:28
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-05-31 21:54:28
+
+[Build00000014]
+sStartTime = 2006-06-04 11:08:27
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 1
+sEndTime = 2006-06-04 11:08:28
+
+[Build00000015]
+sStartTime = 2006-06-04 11:08:38
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 11:08:39
+
+[Build00000016]
+sStartTime = 2006-06-04 11:08:59
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 11:08:59
+
+[Build00000017]
+sStartTime = 2006-06-04 11:27:46
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-04 11:27:46
+
+[Build00000018]
+sStartTime = 2006-06-04 11:28:07
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-04 11:28:07
+
+[Build00000019]
+sStartTime = 2006-06-04 11:28:32
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-04 11:28:32
+
+[Build00000020]
+sStartTime = 2006-06-04 11:28:43
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-04 11:28:43
+
+[Build00000021]
+sStartTime = 2006-06-04 11:29:20
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 11:29:20
+
+[Build00000022]
+sStartTime = 2006-06-04 11:29:35
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 11:29:35
+
+[Build00000023]
+sStartTime = 2006-06-04 11:34:12
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 11:34:12
+
+[Build00000024]
+sStartTime = 2006-06-04 11:49:25
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-04 11:49:25
+
+[Build00000025]
+sStartTime = 2006-06-04 11:49:38
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-04 11:49:38
+
+[Build00000026]
+sStartTime = 2006-06-04 11:49:48
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 11:49:49
+
+[Build00000027]
+sStartTime = 2006-06-04 11:52:21
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 11:52:21
+
+[Build00000028]
+sStartTime = 2006-06-04 11:53:29
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 11:53:29
+
+[Build00000029]
+sStartTime = 2006-06-04 11:56:22
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-04 11:56:22
+
+[Build00000030]
+sStartTime = 2006-06-04 11:56:41
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-04 11:56:41
+
+[Build00000031]
+sStartTime = 2006-06-04 11:56:51
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 11:56:51
+
+[Build00000032]
+sStartTime = 2006-06-04 11:57:39
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 11:57:39
+
+[Build00000033]
+sStartTime = 2006-06-04 12:10:27
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-04 12:10:27
+
+[Build00000034]
+sStartTime = 2006-06-04 12:10:37
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-04 12:10:37
+
+[Build00000035]
+sStartTime = 2006-06-04 12:10:50
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 12:10:50
+
+[Build00000036]
+sStartTime = 2006-06-04 12:12:19
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 12:12:19
+
+[Build00000037]
+sStartTime = 2006-06-04 12:12:34
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 12:12:34
+
+[Build00000038]
+sStartTime = 2006-06-04 12:19:42
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 12:19:42
+
+[Build00000039]
+sStartTime = 2006-06-04 12:31:39
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 12:31:39
+
+[Build00000040]
+sStartTime = 2006-06-04 12:31:43
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 12:31:43
+
+[Build00000041]
+sStartTime = 2006-06-04 12:41:45
+sCompileUser = Inte2000
+nErrors = 3
+nWarns = 0
+sEndTime = 2006-06-04 12:41:45
+
+[Build00000042]
+sStartTime = 2006-06-04 12:42:03
+sCompileUser = Inte2000
+nErrors = 2
+nWarns = 0
+sEndTime = 2006-06-04 12:42:03
+
+[Build00000043]
+sStartTime = 2006-06-04 12:42:21
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 12:42:21
+
+[Build00000044]
+sStartTime = 2006-06-04 12:50:28
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 12:50:28
+
+[Build00000045]
+sStartTime = 2006-06-04 12:55:12
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 12:55:12
+
+[Build00000046]
+sStartTime = 2006-06-04 12:56:19
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 12:56:19
+
+[Build00000047]
+sStartTime = 2006-06-04 12:56:32
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 12:56:32
+
+[Build00000048]
+sStartTime = 2006-06-04 13:37:59
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 13:37:59
+
+[Build00000049]
+sStartTime = 2006-06-04 13:38:10
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 13:38:10
+
+[Build00000050]
+sStartTime = 2006-06-04 13:38:12
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-04 13:38:13
+
+[Build00000051]
+sStartTime = 2006-06-04 13:38:24
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-04 13:38:24
+
+[Build00000052]
+sStartTime = 2006-06-04 13:40:04
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 13:40:04
+
+[Build00000053]
+sStartTime = 2006-06-04 14:17:30
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 14:17:30
+
+[Build00000054]
+sStartTime = 2006-06-04 14:17:33
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 14:17:33
+
+[Build00000055]
+sStartTime = 2006-06-04 14:19:39
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 14:19:40
+
+[Build00000056]
+sStartTime = 2006-06-04 14:22:06
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-04 14:22:06
+
+[Build00000057]
+sStartTime = 2006-06-11 00:13:15
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-11 00:13:17
+
+[Build00000058]
+sStartTime = 2006-06-11 00:27:24
+sCompileUser = Inte2000
+nErrors = 2
+nWarns = 1
+sEndTime = 2006-06-11 00:27:24
+
+[Build00000059]
+sStartTime = 2006-06-11 00:27:34
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-11 00:27:34
+
+[Build00000060]
+sStartTime = 2006-06-11 00:30:43
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-11 00:30:43
+
+[Build00000061]
+sStartTime = 2006-06-11 00:32:32
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-11 00:32:32
+
+[Build00000062]
+sStartTime = 2006-06-11 13:54:26
+sCompileUser = Inte2000
+nErrors = 6
+nWarns = 0
+sEndTime = 2006-06-11 13:54:27
+
+[Build00000063]
+sStartTime = 2006-06-11 13:54:36
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-11 13:54:37
+
+[Build00000064]
+sStartTime = 2006-06-11 13:57:50
+sCompileUser = Inte2000
+nErrors = 3
+nWarns = 0
+sEndTime = 2006-06-11 13:57:50
+
+[Build00000065]
+sStartTime = 2006-06-11 13:58:37
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 1
+sEndTime = 2006-06-11 13:58:37
+
+[Build00000066]
+sStartTime = 2006-06-11 13:58:52
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 1
+sEndTime = 2006-06-11 13:58:52
+
+[Build00000067]
+sStartTime = 2006-06-11 13:59:48
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 1
+sEndTime = 2006-06-11 13:59:49
+
+[Build00000068]
+sStartTime = 2006-06-11 14:01:05
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-11 14:01:05
+
+[Build00000069]
+sStartTime = 2006-06-11 14:03:52
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 1
+sEndTime = 2006-06-11 14:03:53
+
+[Build00000070]
+sStartTime = 2006-06-11 14:04:44
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 1
+sEndTime = 2006-06-11 14:04:44
+
+[Build00000071]
+sStartTime = 2006-06-11 14:06:04
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 1
+sEndTime = 2006-06-11 14:06:04
+
+[Build00000072]
+sStartTime = 2006-06-11 14:18:06
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 1
+sEndTime = 2006-06-11 14:18:06
+
+[Build00000073]
+sStartTime = 2006-06-11 14:18:12
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 1
+sEndTime = 2006-06-11 14:18:12
+
+[Build00000074]
+sStartTime = 2006-06-11 14:18:38
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 1
+sEndTime = 2006-06-11 14:18:38
+
+[Build00000075]
+sStartTime = 2006-06-11 14:19:25
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 1
+sEndTime = 2006-06-11 14:19:26
+
+[Build00000076]
+sStartTime = 2006-06-11 14:22:26
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 1
+sEndTime = 2006-06-11 14:22:26
+
+[Build00000077]
+sStartTime = 2006-06-11 14:40:30
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-11 14:40:30
+
+[Build00000078]
+sStartTime = 2006-06-11 14:40:44
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 1
+sEndTime = 2006-06-11 14:40:44
+
+[Build00000079]
+sStartTime = 2006-06-11 14:47:38
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-11 14:47:38
+
+[Build00000080]
+sStartTime = 2006-06-11 16:15:56
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 1
+sEndTime = 2006-06-11 16:15:56
+
+[Build00000081]
+sStartTime = 2006-06-11 16:16:08
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-11 16:16:08
+
+[Build00000082]
+sStartTime = 2006-06-11 16:21:37
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-11 16:21:37
+
+[Build00000083]
+sStartTime = 2006-06-11 16:23:45
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-11 16:23:45
+
+[Build00000084]
+sStartTime = 2006-06-11 16:25:22
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-11 16:25:22
+
+[Build00000085]
+sStartTime = 2006-06-11 16:35:57
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-11 16:35:57
+
+[Build00000086]
+sStartTime = 2006-06-11 16:36:00
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-11 16:36:01

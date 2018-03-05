@@ -1,0 +1,69 @@
+//本日志文件由 "Tabbar Add-in(1.17.3169) For Visual C++ 6.0" 创建
+//项目文件:C:\unzipped\cppsmc\CrkTest2\CrkTest2.dsp
+//如果文件增长的很大请删除除本节之外的其他信息
+
+[MAIN]
+nBuildNumber = 9
+
+[Build00000001]
+sStartTime = 2006-06-25 21:38:43
+sCompileUser = Inte2000
+nErrors = 4
+nWarns = 0
+sEndTime = 2006-06-25 21:38:46
+
+[Build00000002]
+sStartTime = 2006-06-25 21:40:07
+sCompileUser = Inte2000
+nErrors = 3
+nWarns = 0
+sEndTime = 2006-06-25 21:40:08
+
+[Build00000003]
+sStartTime = 2006-06-25 21:40:52
+sCompileUser = Inte2000
+nErrors = 3
+nWarns = 0
+sEndTime = 2006-06-25 21:40:52
+
+[Build00000004]
+sStartTime = 2006-06-25 21:41:13
+sCompileUser = Inte2000
+nErrors = 1
+nWarns = 0
+sEndTime = 2006-06-25 21:41:13
+
+[Build00000005]
+sStartTime = 2006-06-25 21:41:21
+sCompileUser = Inte2000
+nErrors = 3
+nWarns = 0
+sEndTime = 2006-06-25 21:41:22
+
+[Build00000006]
+sStartTime = 2006-06-25 21:47:04
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-25 21:47:04
+
+[Build00000007]
+sStartTime = 2006-06-25 21:54:44
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-25 21:54:46
+
+[Build00000008]
+sStartTime = 2006-06-25 21:54:57
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-25 21:54:57
+
+[Build00000009]
+sStartTime = 2006-06-25 22:29:09
+sCompileUser = Inte2000
+nErrors = 0
+nWarns = 0
+sEndTime = 2006-06-25 22:29:09

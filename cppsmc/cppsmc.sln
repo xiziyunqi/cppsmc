@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrkTest", "CrkTest\CrkTest.vcproj", "{2BC48280-3314-417B-9F25-E088FC3376D9}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrkTest3", "CrkTest3\CrkTest3.vcproj", "{B07D33FF-3874-41B6-993F-B86E37E3D474}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CryptExe", "CryptExe\CryptExe.vcproj", "{63D1D466-23FE-4E50-917C-84A6E5017B7A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrkTest2", "CrkTest2\CrkTest2.vcproj", "{EE76F9A1-6198-4BA1-9B77-C7021CB24FE1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2BC48280-3314-417B-9F25-E088FC3376D9}.Debug.ActiveCfg = Debug|Win32
+		{2BC48280-3314-417B-9F25-E088FC3376D9}.Debug.Build.0 = Debug|Win32
+		{2BC48280-3314-417B-9F25-E088FC3376D9}.Release.ActiveCfg = Release|Win32
+		{2BC48280-3314-417B-9F25-E088FC3376D9}.Release.Build.0 = Release|Win32
+		{B07D33FF-3874-41B6-993F-B86E37E3D474}.Debug.ActiveCfg = Debug|Win32
+		{B07D33FF-3874-41B6-993F-B86E37E3D474}.Debug.Build.0 = Debug|Win32
+		{B07D33FF-3874-41B6-993F-B86E37E3D474}.Release.ActiveCfg = Release|Win32
+		{B07D33FF-3874-41B6-993F-B86E37E3D474}.Release.Build.0 = Release|Win32
+		{63D1D466-23FE-4E50-917C-84A6E5017B7A}.Debug.ActiveCfg = Debug|Win32
+		{63D1D466-23FE-4E50-917C-84A6E5017B7A}.Debug.Build.0 = Debug|Win32
+		{63D1D466-23FE-4E50-917C-84A6E5017B7A}.Release.ActiveCfg = Release|Win32
+		{63D1D466-23FE-4E50-917C-84A6E5017B7A}.Release.Build.0 = Release|Win32
+		{EE76F9A1-6198-4BA1-9B77-C7021CB24FE1}.Debug.ActiveCfg = Debug|Win32
+		{EE76F9A1-6198-4BA1-9B77-C7021CB24FE1}.Debug.Build.0 = Debug|Win32
+		{EE76F9A1-6198-4BA1-9B77-C7021CB24FE1}.Release.ActiveCfg = Release|Win32
+		{EE76F9A1-6198-4BA1-9B77-C7021CB24FE1}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
